@@ -3,3 +3,9 @@ node_modules/
 
 # nyc test coverage
 .nyc_output
+
+#  development
+dist/
+
+# environment variables
+.env

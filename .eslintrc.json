@@ -20,6 +20,8 @@
     },
     "rules": {
         "no-console" : "off",
+        "arrow-parens": ["error", "as-needed"],
+        "dot-notation" : ["error", { "allowKeywords": false }],
         "no-unused-vars": [
             "error",
             {
